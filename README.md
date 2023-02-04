@@ -13,8 +13,8 @@ My name is is William and I'm studying to become a developer.
 #
 
 <a href="https://github.com/WilliamLam94">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLam94&title_color=fb8500&line_height=32&text_color=c9cacc&icon_color=fb8500&bg_color=001d3d&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLam94&title_color=fb8500&line_height=32&text_color=c9cacc&icon_color=fb8500&bg_color=161a1d&langs_count=3" />
 </a>
 <a href="https://github.com/WilliamLam94">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamLam94&show_icons=true&line_height=27&count_private=true&title_color=fb8500&text_color=c9cacc&icon_color=fb8500&bg_color=001d3d" alt="William Lam's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamLam94&show_icons=true&line_height=27&count_private=true&title_color=fb8500&text_color=c9cacc&icon_color=fb8500&bg_color=161a1d" alt="William Lam's GitHub Stats" />
 </a>
