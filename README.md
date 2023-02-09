@@ -6,7 +6,7 @@
 </div>
 
 <br/>
-My name is is William and I'm studying to become a developer.
+My name is William and I'm studying to become a developer.
 
 - 🌱 I’m currently learning JavaScript, Java, HTML & CSS
 
