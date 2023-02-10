@@ -8,7 +8,7 @@
 <br/>
 My name is William and I'm studying to become a developer.
 
-- 🌱 I’m currently learning JavaScript, Java, HTML & CSS
+- 📕 I’m currently learning JavaScript, Java, HTML & CSS
 
 #
 
